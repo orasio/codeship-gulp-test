@@ -1,0 +1,1 @@
+[ ![Codeship Status for ivan-vesely/codeship-gulp-test](https://codeship.io/projects/eb48d970-2a22-0132-516a-4a00156bbeba/status)](https://codeship.io/projects/38176)
